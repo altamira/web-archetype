@@ -20,7 +20,6 @@ cd bower_components/overthrow
 npm install
 grunt
 cd ../..
-npm install
 ```
 * Environment ready, run it
 

@@ -7,8 +7,6 @@ Instructions to setup and compile this project:
 
 * Download and install [Node JS](http://nodejs.org/)
 
-* Clone this repository at your git home
-
 * Setup the environment
 
 ```javascript

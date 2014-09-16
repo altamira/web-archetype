@@ -11,7 +11,7 @@ Instructions to setup and compile this project:
 
 ```javascript
 cd <GIT_HOME>
-git clone https://github.com/altamira/web-archetype.git <you project name>
+git clone https://github.com/altamira/web-archetype.git <your project name>
 cd <your project name>
 npm install -g yo
 npm install -g generator-angular
